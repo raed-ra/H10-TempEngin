@@ -1,4 +1,4 @@
-Video Link: https://drive.google.com/open?id=16RsPkzCFrvr-vX8td2vPv8-7vPkYFmIb
+Video Link: 
 
 # Unit 10 OOP Homework: Template Engine - Employee Summary
 
